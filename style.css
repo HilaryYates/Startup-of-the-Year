@@ -13,6 +13,7 @@ html {
 h1 {
   font-size: 3rem;
   color: #c3bec4;
+  margin-top: 100px;
 }
 
 hr {
@@ -43,5 +44,5 @@ hr {
 }
 
 .find-out-more {
-  padding-top: 450px;
+  padding-top: 315px;
 }
